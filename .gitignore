@@ -17,3 +17,5 @@ dist/
 # System and editor files
 .DS_Store
 .vscode/
+
+.streamlit/secrets.toml

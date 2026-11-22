@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+pypdf
+groq
+scikit-learn
+numpy
+python-dotenv
+reportlab
